@@ -1,0 +1,9 @@
+[submodule "inside"]
+	path = inside
+	url = git@github.com:bboyadao/inside.git
+[submodule "home"]
+	path = home
+	url = git@github.com:bboyadao/home.git
+[submodule "tek"]
+	path = tek
+	url = git@github.com:bboyadao/tek.git
